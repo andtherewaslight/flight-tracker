@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - voila
-  - voila-material
   - ipympl
   - numpy
   - pandas
