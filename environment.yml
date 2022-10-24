@@ -6,3 +6,4 @@ dependencies:
   - voila-material
   - ipympl
   - numpy
+  - pandas
