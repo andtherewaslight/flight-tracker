@@ -1,0 +1,8 @@
+name: trial
+channels:
+  - conda-forge
+dependencies:
+  - voila
+  - voila-material
+  - ipympl
+  - numpy
