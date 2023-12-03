@@ -6,3 +6,5 @@ dependencies:
   - ipympl
   - numpy
   - pandas
+  - ipykernel
+  
