@@ -4,5 +4,4 @@ ipympl
 ipywidgets
 pandas
 ipykernel
-os
 voila
