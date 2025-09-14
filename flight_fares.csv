@@ -5761,3 +5761,9 @@ Query date	Label	ID	Origin	Destination	Date	Price	Flight number	Flight string	Pr
 2025-09-13 04:00:04	Tenerife fin de año	91	Err	Err	Err	Err	Err	Err	Err
 2025-09-13 04:00:04	Tenerife fin de año	92	Err	Err	Err	Err	Err	Err	Err
 2025-09-13 04:00:04	Tenerife fin de año	93	Err	Err	Err	Err	Err	Err	Err
+2025-09-14 04:00:03	Tenerife fin de año	88	PSA	TFS	2025-12-28T06:00:00	279.95	FR7476	FR~7476~ ~~PSA~12/28/2025 06:00~TFS~12/28/2025 09:30~~	1757812297000
+2025-09-14 04:00:03	Tenerife fin de año	89	PSA	TFS	2025-12-30T06:00:00	250.89	FR7476	FR~7476~ ~~PSA~12/30/2025 06:00~TFS~12/30/2025 09:30~~	1757812298000
+2025-09-14 04:00:03	Tenerife fin de año	90	PSA	TFS	2025-12-31T16:10:00	164.26	FR7476	FR~7476~ ~~PSA~12/31/2025 16:10~TFS~12/31/2025 19:40~~	1757812296000
+2025-09-14 04:00:03	Tenerife fin de año	91	Err	Err	Err	Err	Err	Err	Err
+2025-09-14 04:00:03	Tenerife fin de año	92	Err	Err	Err	Err	Err	Err	Err
+2025-09-14 04:00:03	Tenerife fin de año	93	Err	Err	Err	Err	Err	Err	Err
